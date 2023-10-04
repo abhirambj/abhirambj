@@ -1,6 +1,10 @@
 <h1 align="center">
   <img src="https://github.com/abhirambj/abhirambj/blob/main/name.svg" alt="Abhiram B J" />
-</h1><img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
+</h1>
+
+## Hey! 👋
+I'm Abhiram, a 23 years old web developer from India and currently reside in Chicago,IL.
+<img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
