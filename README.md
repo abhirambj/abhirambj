@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/abhirambj/abhirambj/blob/main/name.svg" alt="Abhiram B J" />
+  <img src="https://raw.githubusercontent.com/abhirambj/abhirambj/main/name.svg" alt="Abhiram B J" />
 </h1>
 
 ## Hey! 👋
