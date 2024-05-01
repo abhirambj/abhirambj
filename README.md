@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Abhiram, a 23 years old web developer from India and currently reside in Chicago,IL.
+I'm Abhiram, a 24 years old web developer from India and currently reside in Chicago,IL.
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 <p><em>Graduate student at <a href="https://www.iit.edu/">Illinois Institute of Technology, Chicago</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Master's in Information Technology and Management<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
