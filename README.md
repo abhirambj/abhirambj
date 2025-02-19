@@ -4,67 +4,95 @@
 
 ## Hey! 👋
 
-I'm Abhiram Bylahalli Jagadish, a 24-year-old **Full Stack Developer** currently based in **Chicago, IL**, with over 2 years of professional experience building **cloud-based, scalable, and high-performance web applications**. I'm passionate about **cloud technologies, DevOps practices**, and driving **digital transformation**. 
+I'm **Abhiram Bylahalli Jagadish**, a **Full Stack Developer** based in **Chicago, IL**, with **2+ years of experience** building **scalable, cloud-based, and high-performance web applications**. I specialize in **ReactJS, Spring Boot, Node.js, TypeScript, Java, Python, and AWS**.
+
+🚀 Passionate about **cloud computing, DevOps practices, and optimizing system performance**, I enjoy contributing to open-source projects, collaborating with tech communities, and solving **challenging engineering problems**.
 
 <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
 
-<p><em>Graduate student at <a href="https://www.iit.edu/">Illinois Institute of Technology, Chicago</a> pursuing a Master's in Information Technology and Management <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+🎓 **Master’s in IT Management** from **Illinois Institute of Technology, Chicago**  
+📜 **AWS Certified Solutions Architect – Associate (Expected Feb 2025)**  
+💡 Currently working on **distributed systems, microservices, and scalable web applications**  
 
-I'm proficient in **ReactJS, Spring Boot, Node.js, TypeScript, Java, Python and AWS**, and I love contributing to open-source projects and collaborating with tech communities. I’m currently completing my **AWS Certified Solutions Architect Associate** certification and constantly enhancing my skillset with hands-on projects.
-
-[![Twitter: AbhiramBJ](https://img.shields.io/twitter/follow/el3ctr9n?style=social)](https://twitter.com/EL3CTR9N)
 [![Linkedin: abhirambj](https://img.shields.io/badge/-abhirambj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhirambj/)](https://www.linkedin.com/in/abhirambj/)
 [![GitHub AbhiramBJ](https://img.shields.io/github/followers/abhirambj?label=follow&style=social)](https://github.com/abhirambj)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-blue?style=flat-square&logo=react)](https://abhirambj.github.io/portfolio)
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little More About Me...  
+## 🛠️ Tech Stack
 
-```javascript
-const abhiram = {
-  pronouns: "he" | "him",
-  code: ["Javascript", "TypeScript", "HTML", "CSS", "Python", "Java", "ReactJS", "Spring Boot", "Node.js", "NextJS", "FastAPI"],
-  cloudTechnologies: ["AWS", "Docker", "Kubernetes", "Oracle Cloud"],
-  architecture: ["microservices", "event-driven", "serverless", "design system pattern"],
-  databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-  security: ["OAuth 2.0", "JWT", "OpenID Connect", "Argon2", "SSL/TLS"],
-  techCommunities: {
-                      systemAdministrator: "GLUE (GECH Linux Users Enthusiasts)",
-                      coordinator: "GLUE (GECH Linux Users Enthusiasts)",
-                      speaker: "GLUE (GECH Linux Users Enthusiasts)",
-                      mentor: "GLUE (GECH Linux Users Enthusiasts)"
-                    },
-  challenge: "I am currently doing the #100DaysOfCode challenge focused on Full Stack Development using ReactJS and Spring Boot"
-}
-```
-
-### Professional Experience
-
-- **Full Stack Developer Intern @ Agilant Solutions, USA (July 2024 - Sept 2024)**
-  - Collaborated with UI/UX teams to design versatile **ReactJS** components, improving code reusability and delivering a consistent user experience, leading to a 10% faster feature deployment.
-  - Optimized backend services using **Spring Boot**, reducing response times by 30%, contributing to a 15% improvement in transaction completion rates during peak hours.
-  - Devised secure authentication frameworks with **OAuth 2.0** and **JWT**, lowering unauthorized access by 40% and improving customer satisfaction by 12%.
-
-- **Full Stack Web Developer @ Accenture, India (Oct 2021 - July 2023)**
-  - Introduced **Redis caching** within **Spring Boot** to handle growing database loads, cutting read/write latency by 25% and ensuring 18% faster data retrieval, increasing uptime during heavy traffic by 10%.
-  - Engineered scalable **REST APIs** to support microservices migration, improving platform scalability by 20% and reducing infrastructure costs by 15%.
-  - Spearheaded deployment of **Kubernetes clusters** for seamless container orchestration, ensuring zero downtime and high availability during production rollouts.
-
-- **Full Stack Developer @ SMMUD, India (June 2021 - Oct 2021)**
-  - Built dynamic, customer-facing modules using **Next.js** and **FastAPI**, reducing operational inefficiencies by 20% through real-time **MongoDB** synchronization.
-  - Optimized **GraphQL API** performance, decreasing payload sizes by 40% and accelerating page load times, driving higher user retention.
-  - Developed **Progressive Web App (PWA)** features, driving a 20% increase in user engagement and contributing to 15% higher customer retention rates.
+- **Languages:** JavaScript, TypeScript, Java, Python  
+- **Frontend:** ReactJS, Next.js, Tailwind CSS, Storybook  
+- **Backend:** Spring Boot, Node.js, FastAPI, GraphQL  
+- **Cloud & DevOps:** AWS (Lambda, S3, EC2, CloudWatch), Docker, Kubernetes, Oracle Cloud  
+- **Databases:** MongoDB, MySQL, PostgreSQL, PL/SQL, DynamoDB  
+- **Architecture:** Microservices, Event-Driven, Serverless, Distributed Systems  
+- **Security:** OAuth 2.0, JWT, OpenID Connect, Argon2, SSL/TLS  
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so feel free to reach out and say <b>hi</b>—I’m always open to exciting discussions and new opportunities!</em>
+## 📌 Experience
+
+### **🚀 Full Stack Developer Intern | Agilant Solutions Inc, USA (July 2024 - Sept 2024)**
+- Built high-performance **React + TypeScript** components, reducing load times by **25%**.
+- Designed **mobile-first UI** using **Tailwind CSS**, increasing user engagement by **20%**.
+- Implemented **Redux state management**, reducing state-related bugs by **15%**.
+- Worked with backend teams to optimize **API response times by 20%**.
+
+### **💻 Software Developer | Accenture, India (Oct 2021 - July 2023)**
+- Optimized **PL/SQL scripts** and AWS integrations, improving data processing by **20%**.
+- Reduced **API response latency by 25%** using **Redis caching** and **Amazon DynamoDB**.
+- Leveraged **AWS Lambda** for serverless processing, reducing response times by **20%**.
+
+### **🌎 Full Stack Developer | SMMUD, India (June 2021 - Oct 2021)**
+- Developed scalable **backend services** with **Next.js & Node.js**, cutting inefficiencies by **20%**.
+- Used **Kafka for event-driven architecture**, reducing response times by **25%**.
+- Integrated **MongoDB synchronization**, ensuring real-time data consistency.
 
 ---
 
-### Projects & Portfolio
-- **Personal Portfolio**: Showcasing my work using **ReactJS** and **Tailwind CSS** [View here](https://abhirambj.github.io/portfolio/)
-- **Expense-Tracker (Sept 2024 - Oct 2024)**: Developed a financial management tool using **FastAPI**, **React**, **Zustand**, and **MongoDB**, providing users with insightful analytics for financial planning and boosting data confidentiality with **JWT** and **Argon2**.
-- **TogaCommerce (July 2024 - Sept 2024)**: Architected a scalable e-commerce platform leveraging **Docker** and load balancing for high availability, resulting in a 15% increase in completed sales.
-- **GitHub**: Check out my repositories on GitHub for more projects and open-source contributions [GitHub Profile](https://github.com/abhirambj)
+## 📂 Featured Projects
+
+### **🏋️ Peak Physique (Sept 2024 – Dec 2024)**
+- Built a **fitness management app** using **Jakarta EE (JSF, EJB, JPA)** & MySQL.
+- Implemented **Role-Based Access Control (RBAC)** for secure authentication.
+- Optimized performance with **caching strategies**, reducing response times.
+
+### **🛒 TogaCommerce (July 2024 - Sept 2024)**
+- Developed a **React + TypeScript e-commerce platform** for **Agilant Solutions**.
+- Improved frontend performance, increasing user engagement by **15%**.
+
+### **💰 Expense Tracker (Sept 2024 - Oct 2024)**
+- Built a **financial management tool** using **FastAPI, React, Zustand & MongoDB**.
+- Secured authentication with **JWT & Argon2**, enhancing data security.
+
+💻 **Explore more projects:** [GitHub Repositories](https://github.com/abhirambj)  
 
 ---
+
+## 🎓 Education
+
+- **🎓 Illinois Institute of Technology, Chicago, IL**  
+  - Master’s in Information Technology Management – **GPA: 3.8**  
+- **🎓 Visvesvaraya Technological University, India**  
+  - B.E. in Computer Science & Engineering – **GPA: 3.4**  
+
+---
+
+## 📜 Certifications
+
+- ✅ **AWS Certified Solutions Architect – Associate** *(Expected: Feb 2025)*  
+- ✅ **Oracle Cloud Infrastructure Foundations 2021 Associate**  
+
+---
+
+## 📬 Get in Touch
+
+📧 **Email**: [abhiram.bj@gmail.com](mailto:abhiram.bj@gmail.com)  
+📞 **Phone**: (312) 877 8160  
+🔗 **[LinkedIn](https://linkedin.com/in/abhirambj) | [GitHub](https://github.com/abhirambj) | [Portfolio](https://abhirambj.github.io/portfolio)**  
+
+---
+
+### **Let’s Build Something Awesome Together!** 🚀
